@@ -1,5 +1,4 @@
 # internship-groupA
-CNN ve Keypoint tabanlı görüntü işleme çalışmaları
 # SIFT, ORB ve CNN Açıklamaları
 
 ## SIFT ve ORB Nedir?
@@ -83,3 +82,4 @@ y = f(Wx + b)
 ---
 
 **Not:** CNN genellikle gri tonlama (grayscale) görüntüleri kullanır, renk bilgisi doğrudan kullanılmaz.
+
