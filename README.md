@@ -83,8 +83,3 @@ y = f(Wx + b)
 
 **Not:** CNN genellikle gri tonlama (grayscale) görüntüleri kullanır, renk bilgisi doğrudan kullanılmaz.
 
-
-
-
-
-
